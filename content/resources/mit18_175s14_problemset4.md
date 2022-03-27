@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c12cbe83-abd2-19c7-2915-890b0ddaf4f7
 resourcetype: Document
 title: Theory of Probability, Problem Set 4
 uid: e90e01d0-e9fd-4d02-56c6-090d1d98e428
