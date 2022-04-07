@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: c12cbe83-abd2-19c7-2915-890b0ddaf4f7
 ---
@@ -70,7 +71,7 @@ Chapters 3.1, 3.2, 3.3, 3.4, and A.4
 Chapters 3.5, 3.6, 3.7, 3.8, 3.9, 4.1 and A.5
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit18_175s14_problemset4)
+{{< resource_link e90e01d0-e9fd-4d02-56c6-090d1d98e428 "Problem Set 4 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +83,7 @@ Chapters 3.5, 3.6, 3.7, 3.8, 3.9, 4.1 and A.5
 Chapter 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit18_175s14_problemset5)
+{{< resource_link bcea47c0-42a8-0b9e-be33-3f6f391d50cc "Problem Set 5 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +119,7 @@ Chapter 6
 Chapters 7 and 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit18_175s14_problemset8)
+{{< resource_link 613251e5-f410-6cce-74ff-b84148317b0d "Problem Set 8 (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: a091dd67-c063-2c4d-6f1a-a0cad32f1db7
 ---
@@ -30,7 +31,7 @@ This course will follow the textbook:
 
 I use the same notation as Durrett whenever possible.
 
-Other suggested materials that may be helpful are available in the [readings]({{< baseurl >}}/pages/readings) section.
+Other suggested materials that may be helpful are available in the {{< resource_link 0239b452-4b0c-cbfb-0377-6bc53dcd5c4a "readings" >}} section.
 
 Grading
 -------
