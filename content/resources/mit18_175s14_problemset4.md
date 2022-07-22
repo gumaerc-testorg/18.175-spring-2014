@@ -6,6 +6,7 @@ file: /courses/18-175-theory-of-probability-spring-2014/e90e01d0e9fd4d0256c6090d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Theory of Probability, Problem Set 4
 uid: e90e01d0-e9fd-4d02-56c6-090d1d98e428
 ---
 This file contains the information regarding Theory of Probability, Problem Set 4.
-

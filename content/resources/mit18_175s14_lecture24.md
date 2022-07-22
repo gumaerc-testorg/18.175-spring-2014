@@ -6,6 +6,7 @@ file: /courses/18-175-theory-of-probability-spring-2014/12e6cfba188d477ea00d5811
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Theory of Probability, Lecture Slide 24
 uid: 12e6cfba-188d-477e-a00d-5811709bdd91
 ---
 This file contains the information regarding theory of probability, lecture slide 24.
-
