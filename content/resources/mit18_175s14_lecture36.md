@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the information regarding theory of probability, lecture
   slide 36.
 file: /courses/18-175-theory-of-probability-spring-2014/0e6a7d7cd6659827a2511d963f68e83e_MIT18_175S14_Lecture36.pdf
+file_size: 168991
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
