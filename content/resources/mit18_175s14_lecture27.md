@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding theory of probability, lecture
   slide27.
-file: /courses/18-175-theory-of-probability-spring-2014/dfacf4022fb11721ad15290c948a1643_MIT18_175S14_Lecture27.pdf
+file: /ol-ocw-studio-app/courses/18-175-theory-of-probability-spring-2014/dfacf4022fb11721ad15290c948a1643_MIT18_175S14_Lecture27.pdf
 file_size: 750242
 file_type: application/pdf
 learning_resource_types:
