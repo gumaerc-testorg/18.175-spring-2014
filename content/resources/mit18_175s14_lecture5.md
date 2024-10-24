@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding theory of probability, lecture
   slide 5.
-file: /courses/18-175-theory-of-probability-spring-2014/1c016821763783c34c48816b1ac66969_MIT18_175S14_Lecture5.pdf
+file: /ol-ocw-studio-app/courses/18-175-theory-of-probability-spring-2014/1c016821763783c34c48816b1ac66969_MIT18_175S14_Lecture5.pdf
 file_size: 255200
 file_type: application/pdf
 learning_resource_types:

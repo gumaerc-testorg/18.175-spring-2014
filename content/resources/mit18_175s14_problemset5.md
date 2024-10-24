@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding Theory of Probability, Problem
   Set 5.
-file: /courses/18-175-theory-of-probability-spring-2014/bcea47c042a80b9ebe333f6f391d50cc_MIT18_175S14_ProblemSet5.pdf
+file: /ol-ocw-studio-app/courses/18-175-theory-of-probability-spring-2014/bcea47c042a80b9ebe333f6f391d50cc_MIT18_175S14_ProblemSet5.pdf
 file_size: 85862
 file_type: application/pdf
 learning_resource_types:
