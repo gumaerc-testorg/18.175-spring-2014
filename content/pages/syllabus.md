@@ -28,7 +28,7 @@ Texts
 
 This course will follow the textbook:
 
-*   Durrett, Rick. _Probability: Theory and Examples_. 4th ed. Cambridge University Press, 2010. ISBN: 9780521765398. \[Preview with [Google Books](http://books.google.com/books?id=evbGTPhuvSoC&pg=PAfrontcover)\]
+*   Durrett, Rick. _Probability: Theory and Examples_. 4th ed. Cambridge University Press, 2010. ISBN: 9780521765398. \[Preview with {{% resource_link "88ccc65f-7feb-4742-8383-9b5df36c7956" "Google Books" %}}\]
 
 I use the same notation as Durrett whenever possible.
 

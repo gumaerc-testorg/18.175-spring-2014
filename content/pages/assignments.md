@@ -9,7 +9,7 @@ title: Assignments
 uid: c12cbe83-abd2-19c7-2915-890b0ddaf4f7
 ---
 
-The problem numbers reference specific problems in Durrett, Rick. _Probability: Theory and Examples_. 4th ed. Cambridge University Press, 2010. ISBN: 9780521765398. \[Preview with [Google Books](http://books.google.com/books?id=evbGTPhuvSoC&pg=PAfrontcover)\]  
+The problem numbers reference specific problems in Durrett, Rick. _Probability: Theory and Examples_. 4th ed. Cambridge University Press, 2010. ISBN: 9780521765398. \[Preview with {{% resource_link "88ccc65f-7feb-4742-8383-9b5df36c7956" "Google Books" %}}\]  
 Each assignment encourages you to write a few sentences of notes about your readings. (Hand them in, but they won't be graded. This is just to give you an excuse to take some notes.)
 
 {{< tableopen >}}
